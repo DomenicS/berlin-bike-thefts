@@ -1,3 +1,4 @@
 {
-    "data_path" : "data"
+    "data_input" : "data/input",
+    "data_output" : "data/output"
 }
